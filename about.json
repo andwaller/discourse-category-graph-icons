@@ -3,5 +3,6 @@
   "about": "Adds graph-style icons before category names.",
   "version": "0.1",
   "authors": ["andwaller"],
-  "license": "MIT"
+  "license": "MIT",
+  "component": true
 }
